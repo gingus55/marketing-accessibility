@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*  style for header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -119,7 +119,7 @@ aside div img{
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*  footer style */
 footer {
     padding: 30px;
     clear: both;
