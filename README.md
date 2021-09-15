@@ -13,6 +13,8 @@ Images of website:
 
 Link to deployed page:
 
+https://gingus55.github.io/marketing-accessibility/
 
 Link to github repository:
 
+https://github.com/gingus55/marketing-accessibility
