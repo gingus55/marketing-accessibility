@@ -7,7 +7,9 @@
 body {
     background-color: #d9dcd6;
 }
+
 /*  style for header */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +25,9 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
 /* style for the navigation links */
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +53,9 @@ a {
 p {
     font-size: 16px;
 }
+
 /* Style for banner image */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -68,7 +74,9 @@ p {
     float: right;
     margin-left: 25px;
 }
+
 /* style of main section */
+
 main {
     width: 75%;
     display: inline-block;
@@ -92,7 +100,9 @@ main section h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 /* style for the aside */
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -119,7 +129,9 @@ aside div img{
     margin: 10px auto;
     max-width: 150px;
 }
+
 /*  footer style */
+
 footer {
     padding: 30px;
     clear: both;
